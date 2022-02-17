@@ -74,17 +74,17 @@ def combine_info_drs():
         for td in data_point:
             tmp.append(td.text)
         try:
-            # WAHLPERIODE
+            # ELECTION_PERIOD
             tmp2.append('19')
-            # DOKUMENTART
+            # DOCUMENT_TYPE
             tmp2.append('DRUCKSACHEN')
-            # DRS_TYP
+            # DRS_TYPE
             tmp2.append(tmp[2])
             # NR
             tmp2.append(tmp[0])
-            # DATUM
+            # DATE
             tmp2.append(tmp[3])
-            # TITEL
+            # TITLE
             tmp2.append(tmp[5])
             # TEXT
             filename = re.sub('/', '_', tmp[0])
