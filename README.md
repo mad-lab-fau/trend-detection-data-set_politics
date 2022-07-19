@@ -8,7 +8,7 @@ Title:
 Artificial Intelligence Trend Analysis in German Business and Politics - A Web Mining Approach
 
 Authors: 
-Philipp Dumbach, Leo Schwinn, Tassilo Elsberger, Björn M. Eskofier
+Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier
 
 Affiliation:
 Machine Learning and Data Analytics Lab
