@@ -1,5 +1,6 @@
 # trend-detection-data-set_politics
 
+
 Submission to the Journal Data Mining and Knowledge Discovery (https://www.springer.com/journal/10618)
 
 Regular Paper:
