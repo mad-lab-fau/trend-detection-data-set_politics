@@ -5,11 +5,9 @@ Submission to the Journal Data Mining and Knowledge Discovery (https://www.sprin
 Regular Paper:
 
 Title:
-
 Artificial Intelligence Trend Analysis in German Business and Politics - A Web Mining Approach
 
 Authors:
-
 Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier
 
 Affiliation:
