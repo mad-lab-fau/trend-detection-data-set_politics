@@ -12,7 +12,11 @@ Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier
 
 Affiliation:
 Machine Learning and Data Analytics Lab
+
 Friedrich-Alexander-Universität Erlangen-Nürnberg
+
 Carl-Thiersch-Str. 2b
+
 91054 Erlangen
+
 Mail (corresponding author): philipp.dumbach@fau.de
