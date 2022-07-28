@@ -1,3 +1,5 @@
+Code and data set relative to "Artificial Intelligence Trend Analysis in German Business and Politics - A Web Mining Approach" Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier Submitted to the Journal Data Mining and Knowledge Discovery (https://www.springer.com/journal/10618).
+
 # trend-detection-data-set_politics
 
 Submission to the Journal Data Mining and Knowledge Discovery (https://www.springer.com/journal/10618)
