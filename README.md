@@ -23,6 +23,8 @@ Machine Learning and Data Analytics Lab
 
 Friedrich-Alexander-Universität Erlangen-Nürnberg
 
+Department Artificial Intelligence in Biomedical Engineering
+
 Carl-Thiersch-Str. 2b
 
 91054 Erlangen
