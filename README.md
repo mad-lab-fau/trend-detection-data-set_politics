@@ -1,6 +1,6 @@
 **Description**
 
-Code and data set relative to "Artificial Intelligence Trend Analysis in German Business and Politics - A Web Mining Approach" *Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier* which was accepted as *Research Article* to the International Journal of Data Science and Analytics (https://www.springer.com/journal/41060) and undergoes currently the publication procedure.
+Code and data set relative to "Artificial Intelligence Trend Analysis in German Business and Politics - A Web Mining Approach" *Philipp Dumbach, Leo Schwinn, Tim Löhr, Tassilo Elsberger, Björn M. Eskofier* which was accepted as *Research Article* at the International Journal of Data Science and Analytics (https://www.springer.com/journal/41060) and undergoes currently the publication procedure.
 
 This repository contains the code for the crawlers regarding the two political data sources of the German parliament *Bundestag*. There are two types of political documents within this data set: the *Drucksachen* (DRS) which summarize for example law drafts, inquiries or surveys composed for individuals or by parties in the parliament, and the *Plenarprotokolle* (PP), that are word-by-word transcripts of the individual plenary sessions.
 The protocols were used beginning with the election period 14 that started in 1998. 
